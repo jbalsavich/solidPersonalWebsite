@@ -1,0 +1,65 @@
+{
+  "node_modules/solid-js/dist/solid.js": [],
+  "node_modules/solid-js/web/dist/web.js": [],
+  "\u0000vite/preload-helper": [],
+  "node_modules/solid-start/entry-client/mount.tsx": [],
+  "node_modules/@solidjs/meta/dist/index.jsx": [],
+  "node_modules/@solidjs/router/dist/integration.js": [],
+  "node_modules/@solidjs/router/dist/utils.js": [],
+  "node_modules/@solidjs/router/dist/routing.js": [],
+  "node_modules/@solidjs/router/dist/components.jsx": [],
+  "node_modules/solid-start/root/FileRoutes.tsx": [],
+  "node_modules/solid-start/server/ServerContext.tsx": [],
+  "node_modules/solid-start/router.tsx": [],
+  "node_modules/solid-start/server/types.tsx": [],
+  "node_modules/solid-start/error-boundary/ErrorBoundary.tsx": [],
+  "node_modules/solid-start/root/Scripts.tsx": [],
+  "node_modules/solid-start/root/Document.tsx": [],
+  "src/root.css": [],
+  "src/root.jsx": [],
+  "node_modules/solid-start/entry-client/StartClient.tsx": [],
+  "src/entry-client.jsx": [],
+  "node_modules/solid-start/server/components/HttpStatusCode.tsx": [
+    "/assets/_...404_.47238411.js"
+  ],
+  "src/routes/[...404].jsx": [
+    "/assets/_...404_.47238411.js"
+  ],
+  "src/components/Logo.jsx": [
+    "/assets/about.1b80575e.js"
+  ],
+  "src/routes/about.jsx": [
+    "/assets/about.1b80575e.js"
+  ],
+  "src/components/Counter.css": [
+    "/assets/index.2c4e2276.js",
+    "/assets/index.fdb6b3cf.css"
+  ],
+  "src/components/Counter.jsx": [
+    "/assets/index.2c4e2276.js",
+    "/assets/index.fdb6b3cf.css"
+  ],
+  "src/routes/index.jsx": [
+    "/assets/index.2c4e2276.js",
+    "/assets/index.fdb6b3cf.css"
+  ],
+  "src/components/PDFViewer.jsx": [
+    "/assets/resume.b1d0b4bc.js",
+    "/assets/resume.13b73991.css"
+  ],
+  "src/components/Download.css": [
+    "/assets/resume.b1d0b4bc.js",
+    "/assets/resume.13b73991.css"
+  ],
+  "src/components/Download.jsx": [
+    "/assets/resume.b1d0b4bc.js",
+    "/assets/resume.13b73991.css"
+  ],
+  "src/routes/resume.jsx": [
+    "/assets/resume.b1d0b4bc.js",
+    "/assets/resume.13b73991.css"
+  ],
+  "src/routes/api/time.jsx": [
+    "/assets/time.73bf5cd9.js"
+  ]
+}
